@@ -1,8 +1,10 @@
 # Trilha HTML - Dio.me
 ## Módulo 01 - Primeiros passos com HTML
+### Código elaborado por Matheus Santos da Silva
 
-A ideia deste desafio é elaborar um website, utilizando uma estrutura bem básica, utilizando tags aprendidas durante as aulas práticas até então. 
+Este HTML foi elaborado para apresentação do projeto do bootcamp HTML5 da DIO.
 
-Utilizar todas as tags explicadas nas aulas: `<h1>` até `<h6>`, `<p>`, `<mark>`, `<small>`, `<i>`, `<u>`, `<strong>`, `<ol>`, `<ul>`, `<li>`, `<a>`, `<hr>`, `<sub>`, `<sup>`, `<blockquote>`
+O documento apresenta as tags ensinadas durante o bootcamp, aplicadas em uma estrutura básica, com o intuito de desenvolver as habilidades aprendidas.
 
-Utilizar novas tags sugeridas: `<font>`, `<del>`, `<p>`, `<abbr>` (a ideia é buscar estas tags na internet, entender como ela funciona e utilizar no texto)
+Foram utilizadas as tags: `<h1>` até `<h6>`, `<p>`, `<i>`, `<u>`, `<strong>`,  `<ul>`, `<li>`, `<a>`, `<blockquote>` para elaboração deste documento.
+
